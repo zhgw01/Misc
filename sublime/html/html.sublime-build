@@ -1,0 +1,4 @@
+{
+	"cmd": ["open", "-a", "/Applications/Google Chrome.app","$file"],
+	"selector": "source.html"
+}
